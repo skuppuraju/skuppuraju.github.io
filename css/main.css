@@ -2243,6 +2243,11 @@ html.no-csstransitions .home-content__main {
     min-height: 28.8rem;
 }
 
+.timeline_ed__block {
+    position: relative;
+    padding-left: 8rem;
+    min-height: 8.8rem;
+}
 .timeline__bullet {
     background: #0D0A0B;
     height: 1.5rem;
